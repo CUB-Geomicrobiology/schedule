@@ -1,6 +1,6 @@
 # Introduction to Geomicrobiology (Fall 2017)
 
-This is the schedule for the Fall 2017 **Introduction to Geomicrobiology** class. The class takes place MWF 10:00-10:50 in BESC 1B75. For details on the syllabus see https://github.com/2017-Geomicrobiology/syllabus. Details on readings and assignments will be filled in throughout the course of the semester but will always be posted at least one week in advance of their due date. Topic dates are subject to change.
+This is the schedule for the Fall 2017 **Introduction to Geomicrobiology** class. The class takes place MWF 10:00-10:50 in BESC 1B75. For details on the syllabus see https://github.com/2017-Geomicrobiology/syllabus. Details on readings and assignments will be filled in throughout the semester. All topic dates are subject to change.
 
  - [Topics](#topics)
  - [Readings](#readings)
@@ -28,7 +28,7 @@ Intro to TBL                       | Google Drive / module 1 |  30 Aug
 
 ## Assignments
 
-All assignments are due at midnight on the listed due date (see [syllabus](https://github.com/2017-Geomicrobiology/syllabus) for policy on late submissions). Unless otherwise indicated, the assignments are completed on GitHub as described in the instructional videos for the first few assignments. The type of assignment (individual vs. team) as well as links to the relevant instructional video (if applicable) and to start the assignment are posted below.
+All assignments are due at midnight on the listed due date (see [syllabus](https://github.com/2017-Geomicrobiology/syllabus) for policy on late submissions). Unless otherwise indicated, the assignments are completed on GitHub as described in the instructional videos for the first few assignments. The type of assignment (individual vs. team) as well as links to the relevant video tutorial (if applicable) and to start the assignment are posted below.
 
 Assignment | Type | Due Date | Video | Link
 -- | -- | --: | -- | --
