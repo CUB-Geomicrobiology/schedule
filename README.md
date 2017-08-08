@@ -30,7 +30,7 @@ Intro to TBL                       | Google Drive / module 1 |  30 Aug
 
 All assignments are due at midnight on the listed due date (see [syllabus](https://github.com/2017-Geomicrobiology/syllabus) for policy on late submissions). Unless otherwise indicated, the assignments are completed on GitHub as described in the instructional videos for the first few assignments. The type of assignment (individual vs. team) as well as links to the relevant video tutorial (if applicable) and to start the assignment are posted below.
 
-Assignment | Type | Due Date | Video | Link
--- | -- | --: | -- | --
-Intro GitHub | Individual | 30 Aug | NA |
-Intro Team | Team | 1 Sep | NA |
+Assignment   | Type       | Due Date | Video | Link
+-------------|------------|---------:|-------|-----
+Intro GitHub | Individual |   30 Aug | NA    |
+Intro Team   | Team       |    1 Sep | NA    |
