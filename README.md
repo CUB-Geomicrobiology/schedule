@@ -1,6 +1,6 @@
-# Introduction to Geomicrobiology (Fall 2017)
+# Introduction to Geomicrobiology (Fall 2017) - Schedule
 
-This is the schedule for the Fall 2017 **Introduction to Geomicrobiology** class. The class takes place MWF 10:00-10:50 in BESC 1B75. For details on the syllabus see https://github.com/2017-Geomicrobiology/syllabus. Details on readings and assignments will be filled in throughout the semester. All topic dates are subject to change.
+This is the schedule for the Fall 2017 **Introduction to Geomicrobiology** class. The class takes place MWF 10:00-10:50 in BESC 1B75. This document is available online at https://github.com/2017-Geomicrobiology/schedule. For details on the syllabus see https://github.com/2017-Geomicrobiology/syllabus. Details on readings and assignments will be filled in throughout the semester. All topic dates are subject to change.
 
  - [Topics](#topics)
  - [Readings](#readings)
@@ -13,18 +13,23 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 Activity                                    |             Dates
 --------------------------------------------|-----------------:
 First class. Introductions, teams, syllabus |            28 Aug
-Module 1: Intro to TBL                      | 30 Aug <br> 1 Sep
+Module 0: Intro to TBL                      | 30 Aug <br> 1 Sep
 Labor day: **no class**                     |             4 Sep
-Module 2: Microbial properties and diversity|
+Module 1: Microbial properties and diversity|
 
 ## Readings
 
-`Read by` dates for readings are the dates on which the content will be discussed in class, or is part of individual and team tests.
+`Read by` dates for readings are the dates on which the content will be discussed in class, or is part of individual and team tests. Required readings are prefixed with a number to indicate the suggested order of reading (for logical flow, not as an indication of importance). Optional readings are prefixed with `OPT`. They are not required reading and are not part of the tests. They typically contain additional information that may be useful for particular assignments.
 
-Reading                            | Where to find           | Read by
------------------------------------|-------------------------|-------:
-learning styles and strategies.pdf | Google Drive / module 1 |  30 Aug
-Intro to TBL                       | Google Drive / module 1 |  30 Aug
+Reading                                              | Where to find           | Read by
+-----------------------------------------------------|-------------------------|-------:
+01 syllabus                                          | github.io/syllabus      |
+02 team based learning handout                       |                         |
+03 essential tbl                                     |                         |
+04 helpful feedback (+additional notes on feedback?) |                         |
+05 learning styles and strategies.pdf                | Google Drive / module 0 |  30 Aug
+OPT markdown cheatsheet.pdf                          | Google Drive / module 0 |     OPT
+
 
 ## Assignments
 
