@@ -35,7 +35,7 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 Reading                                              | Where to find                                                | Read by
 -----------------------------------------------------|--------------------------------------------------------------|-------:
-01 syllabus                                          | [syllabus](https://github.com/2017-Geomicrobiology/syllabus) |
+01 syllabus                                          | [syllabus](https://2017-Geomicrobiology.github.io/syllabus) |
 02 team based learning handout                       |                                                              |
 03 essential tbl                                     |                                                              |
 04 helpful feedback (+additional notes on feedback?) |                                                              |
@@ -45,7 +45,7 @@ OPT markdown cheatsheet.pdf                          | Google Drive / module 1  
 
 ## Assignments
 
-All assignments are due on the listed due date at the specified time (see [syllabus](https://github.com/2017-Geomicrobiology/syllabus) for policy on late submissions). Unless otherwise indicated, the assignments are completed on GitHub as described in the instructional videos for the first few assignments. The type of assignment (individual vs. team) as well as links to the relevant video tutorial (if applicable) and to start the assignment are posted below. Some assignments may be solely in preparation for a later team activity and may not be graded themselves. All information on submission and grading is provided in the individual assignments' README.
+All assignments are due on the listed due date at the specified time (see [syllabus](https://2017-Geomicrobiology.github.io/syllabus) for policy on late submissions). Unless otherwise indicated, the assignments are completed on GitHub as described in the instructional videos for the first few assignments. The type of assignment (individual vs. team) as well as links to the relevant video tutorial (if applicable) and to start the assignment are posted below. Some assignments may be solely in preparation for a later team activity and may not be graded themselves. All information on submission and grading is provided in the individual assignments' README.
 
 Assignment   | Type       |              Due Date | Video | Link
 -------------|------------|----------------------:|-------|-----
