@@ -18,25 +18,26 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 |        | *Labor day - no class*                      |           4 Sep |
 |   2    | Microbial properties & diversity            |  6 Sep - 15 Sep |
 |   3    | Microbial metabolism & energetics           |  18 Sep - 6 Oct |
-|   4    | Microbial roles in biogeochemical cycles    |  9 Oct - 27 Oct |
-|   5    | Microbe-mineral interactions                | 30 Oct - 17 Nov |
+|   4    | Microbial roles in biogeochemical cycles    |  9 Oct - 20 Oct |
+|   5    | Microbe-mineral interactions                |  23 Oct - 3 Nov |
+|   6    | The microbial geologic record               |  Nov 6 - Nov 17 |
 |        | *Fall break - no classes*                   |     20 - 24 Nov |
-|   6    | Final topic (selected by the class)         |  27 Nov - 8 Dec |
+|   7    | Final topic (selected by the class)         |  27 Nov - 8 Dec |
 |        | *Finals week - no final for this class*     | 11 Dec - 15 Dec |
 
 
 ## Readings
 
-`Read by` dates for readings are the dates on which the content will be discussed in class, or is part of individual and team tests. Required readings are prefixed with a number to indicate the suggested order of reading (for logical flow, not as an indication of importance). Optional readings are prefixed with `OPT`. They are not required reading and are not part of the tests. They typically contain additional information that may be useful for particular assignments.
+`Read for` dates for readings are the dates on which the content will be discussed in class, or is part of individual and team tests. Required readings are prefixed with a number to indicate the suggested order of reading (for logical flow, not as an indication of importance). Optional readings are prefixed with `OPT`. They are not required reading and are not part of the tests. They typically contain additional information that may be useful for particular assignments.
 
-Reading                                              | Where to find                                                | Read by
------------------------------------------------------|--------------------------------------------------------------|-------:
-01 syllabus                                          | [syllabus](https://2017-Geomicrobiology.github.io/syllabus) |
-02 team based learning handout                       |                                                              |
-03 essential tbl                                     |                                                              |
-04 helpful feedback (+additional notes on feedback?) |                                                              |
-05 learning styles and strategies.pdf                | Google Drive / module 1                                      |  30 Aug
-OPT markdown cheatsheet.pdf                          | Google Drive / module 1                                      |     OPT
+Module | Reading                                              | Where to find                                               | Read for
+-------|------------------------------------------------------|-------------------------------------------------------------|--------:
+1      | 01 syllabus                                          | [syllabus](https://2017-Geomicrobiology.github.io/syllabus) |   30 Aug RAT
+1      | 02 team based learning handout                       |                                                             |   30 Aug RAT
+1      | 03 essential tbl                                     |                                                             |   30 Aug RAT
+1      | 04 helpful feedback (+additional notes on feedback?) |                                                             |   30 Aug RAT
+1      | 05 learning styles and strategies.pdf                | Google Drive / module 1                                     |    1 Sep Discussion
+1      | OPT markdown cheatsheet.pdf                          | Google Drive / module 1                                     |    1 Sep
 
 
 ## Assignments
@@ -45,6 +46,8 @@ All assignments are due on the listed due date at the specified time (see [sylla
 
 Assignment                           | Type       |                         Due Date | Video | Link
 -------------------------------------|------------|---------------------------------:|-------|-----
+What is your team name?              | Team       |            30 Aug (before class) |       |
+[Readings](#readings) for Module 1 RATs | Individual | 30 Aug (before class) | |
 Intro GitHub                         | Individual |             1 Sep (before class) |       |
 Intro Team                           | Team       |             8 Sep (before class) |       |
 Team Blog                            | Team       | 1st entry: 15 Sep (before class) |       |
