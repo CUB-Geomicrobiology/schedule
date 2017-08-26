@@ -7,10 +7,6 @@ permalink: /
 
 This is the schedule for the Fall 2017 **Introduction to Geomicrobiology** class at the University of Colorado Boulder. The class takes place MWF 10:00-10:50 in BESC 1B75. The most up-to-date version of this document is available online at [2017-Geomicrobiology.github.io/schedule](https://2017-Geomicrobiology.github.io/schedule). Details on readings and assignments will be filled in throughout the semester and **the exact schedule for the modules may change as we go along**. For details on the syllabus see [2017-Geomicrobiology.github.io/syllabus](https://2017-Geomicrobiology.github.io/syllabus).
 
- - [Topics](#topics)
- - [Readings](#readings)
- - [Assignments](#assignments)
-
 ## Topics
 
 Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the first day of a new module (e.g. on August 28 for Module 1 and on September 4 for Module 2).
@@ -25,7 +21,7 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 |   4    | Microbial roles in biogeochemical cycles    |  9 Oct - 27 Oct |
 |   5    | Microbe-mineral interactions                | 30 Oct - 17 Nov |
 |        | *Fall break - no classes*                   |     20 - 24 Nov |
-|   6    | Geomicrobiotechnology                       |  27 Nov - 8 Dec |
+|   6    | Final topic (selected by the class)         |  27 Nov - 8 Dec |
 |        | *Finals week - no final for this class*     | 11 Dec - 15 Dec |
 
 
