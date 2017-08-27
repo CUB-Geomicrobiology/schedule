@@ -28,41 +28,56 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 ## Readings
 
-`Read for` dates for readings are the dates on which the content will be discussed in class, or is part of individual and team tests. Required readings are prefixed with a number to indicate the suggested order of reading (for logical flow, not as an indication of importance). Optional readings are prefixed with `OPT`. They are not required reading and are not part of the tests. They typically contain additional information that may be useful for particular assignments.
+`Read by` dates for readings are the dates on which related assignments are due (`Assignment`), content will be part of a team exercise or discussion in class (`Exercise`), or is part of individual and team readiness assessment tests (`RAT`). Required readings are prefixed with a number to indicate the suggested order of reading (for logical flow, not as an indication of importance). Optional readings are prefixed with `OPT`. They are not required reading and are **not** part of any tests or exercises but provide additional information that you may find helpful or interesting.
 
-Module | Reading                                              | Where to find                                               | Read for
--------|------------------------------------------------------|-------------------------------------------------------------|--------:
-1      | 01 syllabus                                          | [syllabus](https://2017-Geomicrobiology.github.io/syllabus) |   30 Aug RAT
-1      | 02 team based learning handout                       |                                                             |   30 Aug RAT
-1      | 03 essential tbl                                     |                                                             |   30 Aug RAT
-1      | 04 helpful feedback (+additional notes on feedback?) |                                                             |   30 Aug RAT
-1      | 05 learning styles and strategies.pdf                | Google Drive / module 1                                     |    1 Sep Discussion
-1      | OPT markdown cheatsheet.pdf                          | Google Drive / module 1                                     |    1 Sep
+#### Module 1
 
+| Reading                                              | Where to find                                               |          Read by |        For |
+|------------------------------------------------------|-------------------------------------------------------------|-----------------:|-----------:|
+| 01 syllabus                                          | [syllabus](https://2017-Geomicrobiology.github.io/syllabus) |       30 Aug RAT |        RAT |
+| 02 team based learning handout                       |                                                             |       30 Aug RAT |        RAT |
+| 03 essential tbl                                     |                                                             |       30 Aug RAT |        RAT |
+| 04 helpful feedback (+additional notes on feedback?) |                                                             |       30 Aug RAT |        RAT |
+| 05 learning styles and strategies.pdf                | Google Drive / module 1                                     | 1 Sep Discussion |   Exercise |
+| OPT markdown cheatsheet.pdf                          | Google Drive / module 1                                     |            1 Sep | Assignment |
+
+#### Module 2
+
+#### Module 3
+
+#### Module 4
+
+#### Module 5
+
+#### Module 6
+
+#### Module 7
 
 ## Assignments
 
-All assignments are due on the listed due date at the specified time (see [syllabus](https://2017-Geomicrobiology.github.io/syllabus) for policy on late submissions). Unless otherwise indicated, the assignments are completed on GitHub as described in the instructional videos for the first few assignments. The type of assignment (individual vs. team) as well as links to the relevant video tutorial (if applicable) and to start the assignment are posted below. Some assignments may be solely in preparation for a later team activity and may not be graded themselves. All information on submission and grading is provided in the individual assignments' `README.md`. While all major individual and team assignments are already listed, please be aware that several smaller ones that are specifically in preparation for in class exercises will likely be added in between.
+All assignments are due on the listed due date at the specified time (see [syllabus](https://2017-Geomicrobiology.github.io/syllabus) for policy on late submissions). The `type` of assignment (individual vs. team) as well as details on `how to` do the assignment are posted below. Some assignments may be solely in preparation for a later team activity and may not be graded themselves. While the names of all major assignments are already listed, please be aware that several smaller ones that are specifically in preparation for in class exercises will likely be added in between.
 
-Assignment                           | Type       |                         Due Date | Video | Link
--------------------------------------|------------|---------------------------------:|-------|-----
-What is your team name?              | Team       |            30 Aug (before class) |       |
-[Readings](#readings) for Module 1 RATs | Individual | 30 Aug (before class) | |
-Intro GitHub                         | Individual |             1 Sep (before class) |       |
-Intro Team                           | Team       |             8 Sep (before class) |       |
-Team Blog                            | Team       | 1st entry: 15 Sep (before class) |       |
-Term Project Topic                   | Individual |            22 Sep (before class) |       |
-Peer Evaluation #1                   | Individual |                27 Sep (midnight) |       |
-Team Blog                            | Team       | 2nd entry: 29 Sep (before class) |       |
-Term L&G Draft                       | Individual |                 2 Oct (midnight) |       |
-Peer Feedback on L&G                 | Individual |                 4 Oct (midnight) |       |
-Term L&G Revised Final               | Individual |                 6 Oct (midnight) |       |
-Team Blog                            | Team       | 3rd entry: 13 Oct (before class) |       |
-Peer Evaluation #2                   | Individual |                 1 Nov (midnight) |       |
-Team Blog                            | Team       |  4th entry: 3 Nov (before class) |       |
-Term Paper/Proposal Draft            | Individual |                10 Nov (midnight) |       |
-Peer Feedback on Term Paper/Proposal | Individual |                15 Nov (midnight) |       |
-Team Blog                            | Team       | 5th entry: 17 Nov (before class) |       |
-Team Blog                            | Team       |  6th entry: 1 Dec (before class) |       |
-Peer Evaluation #3                   | Individual |                 6 Dec (midnight) |       |
-Term Paper/Proposal Revised Final    | Individual |                 8 Dec (midnight) |       |
+Details on how to do each assignment will be posted as the assignments become available throughout the semester. Most assignments will be completed on GitHub and will list a link to `Start Assignment` once they become available, as well as additional links to relevant video tutorials (if applicable). All information on submission and grading will be provided in the individual assignments' `README.md` files. If this sounds confusing, do not worry, all of this will be explained in detail in the first few tutorial videos which will introduce how to create a GitHub account, accept individual and team assignments, collaborate on team assignments, complete and submit assignments for grading, etc.
+
+
+Assignment                           | Type       | Due Date              | How to                                         |
+-------------------------------------|------------|:----------------------|------------------------------------------------|--
+What is your team name?              | Team       | 30 Aug (before class) | Discuss with your team, bring to class         |
+Intro GitHub                         | Individual | 1 Sep (before class)  | [Video Tutorial](https://youtu.be/t2akdoj0OfA) / [Start Assignment](https://classroom.github.com/a/kpaay7tA) |
+Intro Team                           | Team       | 8 Sep (before class)  |                                                |
+Team Blog (1st entry)                | Team       | 15 Sep (before class) |                                                |
+Term Project Topic                   | Individual | 22 Sep (before class) |                                                |
+Peer Evaluation #1                   | Individual | 27 Sep (midnight)     |                                                |
+Team Blog (2nd entry)                | Team       | 29 Sep (before class) |                                                |
+Term L&G Draft                       | Individual | 2 Oct (midnight)      |                                                |
+Peer Feedback on L&G                 | Individual | 4 Oct (midnight)      |                                                |
+Term L&G Revised Final               | Individual | 6 Oct (midnight)      |                                                |
+Team Blog (3rd entry)                | Team       | 13 Oct (before class) |                                                |
+Peer Evaluation #2                   | Individual | 1 Nov (midnight)      |                                                |
+Team Blog (4th entry)                | Team       | 3 Nov (before class)  |                                                |
+Term Paper/Proposal Draft            | Individual | 10 Nov (midnight)     |                                                |
+Peer Feedback on Term Paper/Proposal | Individual | 15 Nov (midnight)     |                                                |
+Team Blog (5th entry)                | Team       | 17 Nov (before class) |                                                |
+Team Blog (6th entry)                | Team       | 1 Dec (before class)  |                                                |
+Peer Evaluation #3                   | Individual | 6 Dec (midnight)      |                                                |
+Term Paper/Proposal Revised Final    | Individual | 8 Dec (midnight)      |                                                |
