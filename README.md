@@ -35,11 +35,11 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 | Reading                               | Where to find                                               | Read by |        For |
 |---------------------------------------|-------------------------------------------------------------|--------:|-----------:|
 | 01 syllabus                           | [syllabus](https://2017-Geomicrobiology.github.io/syllabus) |  30 Aug |        RAT |
-| 02 introduction to TBL.pdf            | Google Drive / module 1                                     |  30 Aug |        RAT |
-| 03 essential TBL.pdf                  | Google Drive / module 1                                     |  30 Aug |        RAT |
-| 04 helpful feedback.pdf               | Google Drive / module 1                                     |  30 Aug |        RAT |
-| 05 learning styles and strategies.pdf | Google Drive / module 1                                     |   1 Sep |   Exercise |
-| OPT markdown cheatsheet.pdf           | Google Drive / module 1                                     |   1 Sep | Assignment |
+| 02 introduction to TBL.pdf            | [Google Drive](https://goo.gl/QePQxE) / module 1            |  30 Aug |        RAT |
+| 03 essential TBL.pdf                  | [Google Drive](https://goo.gl/QePQxE) / module 1            |  30 Aug |        RAT |
+| 04 helpful feedback.pdf               | [Google Drive](https://goo.gl/QePQxE) / module 1            |  30 Aug |        RAT |
+| 05 learning styles and strategies.pdf | [Google Drive](https://goo.gl/QePQxE) / module 1            |   1 Sep |   Exercise |
+| OPT markdown cheatsheet.pdf           | [Google Drive](https://goo.gl/QePQxE) / module 1            |   1 Sep | Assignment |
 
 #### Module 2
 
