@@ -46,8 +46,8 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 | Reading                            | Where to find                                                                                                                                                       | Read by | For |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------:|----:|
 | 01 Microbial properties and diversity | Chapter 1 in [Introduction to Geomicrobiology](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site) |   6 Sep | RAT |
-| 02 Geomicrobiology and Microbial Geochemistry | Google Drive / module 2 | 6 Sep | RAT |
-| 03 Understanding Evolutionary Trees | Google Drive / module 2 | 6 Sep | RAT |
+| 02 Geomicrobiology and Microbial Geochemistry | [Google Drive](https://goo.gl/QePQxE) / module 2 | 6 Sep | RAT |
+| 03 Understanding Evolutionary Trees | [Google Drive](https://goo.gl/QePQxE) / module 2 | 6 Sep | RAT |
 
 
 
