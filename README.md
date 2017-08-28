@@ -43,6 +43,14 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 #### Module 2
 
+| Reading                            | Where to find                                                                                                                                                       | Read by | For |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------:|----:|
+| 01 Microbial properties and diversity | Chapter 1 in [Introduction to Geomicrobiology](http://search.ebscohost.com.colorado.idm.oclc.org/login.aspx?direct=true&db=nlebk&AN=274665&site=ehost-live&scope=site) |   6 Sep | RAT |
+| 02 Geomicrobiology and Microbial Geochemistry | Google Drive / module 2 | 6 Sep | RAT |
+| 03 Understanding Evolutionary Trees | Google Drive / module 2 | 6 Sep | RAT |
+
+
+
 #### Module 3
 
 #### Module 4
@@ -55,7 +63,7 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 ## Assignments
 
-All assignments are due on the listed due date at the specified time (see [syllabus](https://2017-Geomicrobiology.github.io/syllabus) for policy on late submissions). The `type` of assignment (individual vs. team) as well as details on `how to` do the assignment are posted below. Some assignments may be solely in preparation for a later team activity and may not be graded themselves. While the names of all major assignments are already listed, please be aware that several smaller ones that are specifically in preparation for in class exercises will likely be added in between.
+All assignments are due on the listed due date at the specified time (see [syllabus](https://2017-Geomicrobiology.github.io/syllabus) for policy on late submissions). The `type` of assignment (individual vs. team) as well as details on `how to` do the assignment are posted below. Some assignments may be solely in preparation for a later team activity and may not be graded themselves. While the names of all major out-of-class assignments are already listed, please be aware that several smaller ones that are specifically in preparation for in-class exercises will likely be added in between.
 
 Details on how to do each assignment will be posted as the assignments become available throughout the semester. Most assignments will be completed on GitHub and will list a link to `Start Assignment` once they become available, as well as additional links to relevant video tutorials (if applicable). All information on submission and grading will be provided in the individual assignments' `README.md` files. If this sounds confusing, do not worry, all of this will be explained in detail in the first few tutorial videos which will introduce how to create a GitHub account, accept individual and team assignments, collaborate on team assignments, complete and submit assignments for grading, etc.
 
