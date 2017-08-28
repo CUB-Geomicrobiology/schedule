@@ -32,14 +32,14 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 #### Module 1
 
-| Reading                                              | Where to find                                               |          Read by |        For |
-|------------------------------------------------------|-------------------------------------------------------------|-----------------:|-----------:|
-| 01 syllabus                                          | [syllabus](https://2017-Geomicrobiology.github.io/syllabus) |       30 Aug RAT |        RAT |
-| 02 team based learning handout                       |                                                             |       30 Aug RAT |        RAT |
-| 03 essential tbl                                     |                                                             |       30 Aug RAT |        RAT |
-| 04 helpful feedback (+additional notes on feedback?) |                                                             |       30 Aug RAT |        RAT |
-| 05 learning styles and strategies.pdf                | Google Drive / module 1                                     | 1 Sep Discussion |   Exercise |
-| OPT markdown cheatsheet.pdf                          | Google Drive / module 1                                     |            1 Sep | Assignment |
+| Reading                               | Where to find                                               | Read by |        For |
+|---------------------------------------|-------------------------------------------------------------|--------:|-----------:|
+| 01 syllabus                           | [syllabus](https://2017-Geomicrobiology.github.io/syllabus) |  30 Aug |        RAT |
+| 02 introduction to TBL.pdf            |                                                             |  30 Aug |        RAT |
+| 03 essential TBL.pdf                  |                                                             |  30 Aug |        RAT |
+| 04 helpful feedback.pdf               |                                                             |  30 Aug |        RAT |
+| 05 learning styles and strategies.pdf | Google Drive / module 1                                     |   1 Sep |   Exercise |
+| OPT markdown cheatsheet.pdf           | Google Drive / module 1                                     |   1 Sep | Assignment |
 
 #### Module 2
 
