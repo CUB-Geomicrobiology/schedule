@@ -71,7 +71,7 @@ Details on how to do each assignment will be posted as the assignments become av
 Assignment                           | Type       | Due Date              | How to                                         |
 -------------------------------------|------------|:----------------------|------------------------------------------------|--
 What is your team name?              | Team       | 30 Aug (before class) | Discuss with your team, bring to class         |
-Intro GitHub                         | Individual | 1 Sep (before class)  | [Video Tutorial](https://youtu.be/t2akdoj0OfA) / [Start Assignment](https://classroom.github.com/a/kpaay7tA) |
+Intro GitHub                         | Individual | 1 Sep (before class)  | [Video Tutorial](https://youtu.be/bRkpm1LTpkY) / [Start Assignment](https://classroom.github.com/a/kpaay7tA) |
 Intro Team                           | Team       | 8 Sep (before class)  |                                                |
 Team Blog (1st entry)                | Team       | 15 Sep (before class) |                                                |
 Term Project Topic                   | Individual | 22 Sep (before class) |                                                |
