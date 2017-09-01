@@ -81,7 +81,7 @@ Term L&G Draft                          | Individual | 2 Oct (midnight)      |  
 Peer Feedback on L&G                    | Individual | 4 Oct (midnight)      |                                                                                                              |
 Term L&G Revised Final                  | Individual | 6 Oct (midnight)      |                                                                                                              |
 Team Blog (3rd entry)                   | Team       | 13 Oct (before class) |                                                                                                              |
-Term Paper/Proposal Outline             | Team       | 20 Oct (midnight)     |                                                                                                              |
+Term Paper/Proposal Outline             | Individual | 20 Oct (midnight)     |                                                                                                              |
 Peer Feedback on Paper/Proposal Outline | Individual | 25 Oct (midnight)     |                                                                                                              |
 Peer Evaluation #2                      | Individual | 1 Nov (midnight)      |                                                                                                              |
 Team Blog (4th entry)                   | Team       | 3 Nov (before class)  |                                                                                                              |
