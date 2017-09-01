@@ -72,7 +72,7 @@ Assignment                              | Type       | Due Date              | H
 ----------------------------------------|------------|:----------------------|--------------------------------------------------------------------------------------------------------------|--
 What is your team name?                 | Team       | 30 Aug (before class) | Discuss with your team, bring to class                                                                       |
 Intro GitHub                            | Individual | 1 Sep (before class)  | [Video Tutorial](https://youtu.be/bRkpm1LTpkY) / [Start Assignment](https://classroom.github.com/a/kpaay7tA) |
-Intro Team                              | Team       | 8 Sep (before class)  |                                                                                                              |
+Intro Team                              | Team       | 11 Sep (before class) |                                                                                                              |
 Team Blog (1st entry)                   | Team       | 15 Sep (before class) |                                                                                                              |
 Term Project Topic                      | Individual | 22 Sep (before class) |                                                                                                              |
 Peer Evaluation #1                      | Individual | 27 Sep (midnight)     |                                                                                                              |
