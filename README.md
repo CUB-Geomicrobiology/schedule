@@ -43,12 +43,11 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 #### Module 2
 
-| Reading                                       | Where to find                                                         | Read by |      For |
-|-----------------------------------------------|-----------------------------------------------------------------------|--------:|---------:|
-| 01 Microbial properties and diversity         | Chapter 1 in [Introduction to Geomicrobiology](https://goo.gl/NGy9Ew) |   6 Sep |      RAT |
-| 02 Geomicrobiology and Microbial Geochemistry | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep |      RAT |
-| 03 Understanding Evolutionary Trees           | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep |      RAT |
-| OPT Reading Tips                              | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep | Readings |
+| Reading                                       | Where to find                                                         | Read by | For |
+|-----------------------------------------------|-----------------------------------------------------------------------|--------:|----:|
+| 01 Microbial properties and diversity         | Chapter 1 in [Introduction to Geomicrobiology](https://goo.gl/NGy9Ew) |   6 Sep | RAT |
+| 02 Geomicrobiology and Microbial Geochemistry | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep | RAT |
+| 03 Understanding Evolutionary Trees           | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep | RAT |
 
 
 
@@ -73,22 +72,21 @@ Assignment                              | Type       | Due Date              | H
 ----------------------------------------|------------|:----------------------|--------------------------------------------------------------------------------------------------------------|--
 What is your team name?                 | Team       | 30 Aug (before class) | Discuss with your team, bring to class                                                                       |
 Intro GitHub                            | Individual | 1 Sep (before class)  | [Video Tutorial](https://youtu.be/bRkpm1LTpkY) / [Start Assignment](https://classroom.github.com/a/kpaay7tA) |
-Intro Team                              | Team       | 11 Sep (before class) |                                                                                                              |
-Team Blog (1st entry)                   | Team       | 15 Sep (before class) |                                                                                                              |
+Intro Team                              | Team       | 15 Sep (before class) |                                                                                                              |
 Term Project Topic                      | Individual | 22 Sep (before class) |                                                                                                              |
 Peer Evaluation #1                      | Individual | 27 Sep (midnight)     |                                                                                                              |
-Team Blog (2nd entry)                   | Team       | 29 Sep (before class) |                                                                                                              |
+Team Blog (1st entry)                   | Team       | 29 Sep (before class) |                                                                                                              |
 Term L&G Draft                          | Individual | 2 Oct (midnight)      |                                                                                                              |
 Peer Feedback on L&G                    | Individual | 4 Oct (midnight)      |                                                                                                              |
 Term L&G Revised Final                  | Individual | 6 Oct (midnight)      |                                                                                                              |
-Team Blog (3rd entry)                   | Team       | 13 Oct (before class) |                                                                                                              |
-Term Paper/Proposal Outline             | Individual | 20 Oct (midnight)     |                                                                                                              |
+Team Blog (2nd entry)                   | Team       | 13 Oct (before class) |                                                                                                              |
+Term Paper/Proposal Outline             | Team       | 20 Oct (midnight)     |                                                                                                              |
 Peer Feedback on Paper/Proposal Outline | Individual | 25 Oct (midnight)     |                                                                                                              |
 Peer Evaluation #2                      | Individual | 1 Nov (midnight)      |                                                                                                              |
-Team Blog (4th entry)                   | Team       | 3 Nov (before class)  |                                                                                                              |
+Team Blog (3rd entry)                   | Team       | 3 Nov (before class)  |                                                                                                              |
 Term Paper/Proposal Draft               | Individual | 10 Nov (midnight)     |                                                                                                              |
 Peer Feedback on Term Paper/Proposal    | Individual | 15 Nov (midnight)     |                                                                                                              |
-Team Blog (5th entry)                   | Team       | 17 Nov (before class) |                                                                                                              |
-Team Blog (6th entry)                   | Team       | 1 Dec (before class)  |                                                                                                              |
+Team Blog (4th entry)                   | Team       | 17 Nov (before class) |                                                                                                              |
+Team Blog (5th entry)                   | Team       | 1 Dec (before class)  |                                                                                                              |
 Peer Evaluation #3                      | Individual | 6 Dec (midnight)      |                                                                                                              |
 Term Paper/Proposal Revised Final       | Individual | 8 Dec (midnight)      |                                                                                                              |
