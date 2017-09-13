@@ -51,12 +51,10 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 #### Module 3
 
-| Reading                                       | Where to find                                                         | Read by | For |
-|-----------------------------------------------|-----------------------------------------------------------------------|--------:|----:|
-| 01 Microbial Metabolism         | Chapter 2 in [Introduction to Geomicrobiology](https://goo.gl/NGy9Ew) |   20 Sep | RAT |
-| 02 Geomicrobiology and Microbial Geochemistry | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep | RAT |
-| 03 Understanding Evolutionary Trees           | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep | RAT |
-
+| Reading              | Where to find                                                               | Read by | For |
+|----------------------|-----------------------------------------------------------------------------|--------:|----:|
+| Microbial Metabolism | Chapter 2 in [Introduction to Geomicrobiology](https://goo.gl/NGy9Ew)       |  20 Sep | RAT |
+| Redox refresher      | [Online Materials](https://2017-geomicrobiology.github.io/materials/redox/) |  20 Sep | RAT |
 
 #### Module 4
 
