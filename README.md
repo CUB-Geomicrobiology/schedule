@@ -17,7 +17,7 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 |   1    | Communication and Collaboration             |  30 Aug - 1 Sep |
 |        | *Labor day - no class*                      |           4 Sep |
 |   2    | Microbial properties & diversity            |  6 Sep - 15 Sep |
-|   3    | Microbial metabolism & energetics           |  18 Sep - 6 Oct |
+|   3    | Microbial metabolism & energetics           |  20 Sep - 6 Oct |
 |   4    | Microbial roles in biogeochemical cycles    |  9 Oct - 20 Oct |
 |   5    | Microbe-mineral interactions                |  23 Oct - 3 Nov |
 |   6    | The microbial geologic record               |  Nov 6 - Nov 17 |
@@ -49,9 +49,14 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 | 02 Geomicrobiology and Microbial Geochemistry | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep | RAT |
 | 03 Understanding Evolutionary Trees           | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep | RAT |
 
-
-
 #### Module 3
+
+| Reading                                       | Where to find                                                         | Read by | For |
+|-----------------------------------------------|-----------------------------------------------------------------------|--------:|----:|
+| 01 Microbial Metabolism         | Chapter 2 in [Introduction to Geomicrobiology](https://goo.gl/NGy9Ew) |   20 Sep | RAT |
+| 02 Geomicrobiology and Microbial Geochemistry | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep | RAT |
+| 03 Understanding Evolutionary Trees           | [Google Drive](https://goo.gl/QePQxE) / module 2                      |   6 Sep | RAT |
+
 
 #### Module 4
 
