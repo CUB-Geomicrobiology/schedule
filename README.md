@@ -82,7 +82,7 @@ Term Project Topic                    | Individual | 22 Sep (before class)      
 Peer Evaluation #1                    | Individual | 27 Sep (midnight)                         |                                                                                                              |
 Team Blog (1st entry)                 | Team       | 29 Sep (before class)                     |                                                                                                              |
 Term L&G Draft                        | Individual | 2 Oct (midnight)                          | [Start Assignment](https://classroom.github.com/a/4m4Ju-fL)                                                  |
-Peer Review of L&G                    | Individual | 4 Oct (midnight)                          | [Video coming soon]                                                                                          |
+Peer Review of L&G                    | Individual | 4 Oct (midnight)                          | Video coming soon                                                                                          |
 Term L&G Revised Final                | Individual | 6 Oct (midnight), verbal summary in class | [Same Assignment as L&G Draft](https://classroom.github.com/a/4m4Ju-fL)                                      |
 Team Blog (2nd entry)                 | Team       | 13 Oct (before class)                     |                                                                                                              |
 Term Paper/Proposal Outline           | Team       | 20 Oct (midnight)                         |                                                                                                              |
