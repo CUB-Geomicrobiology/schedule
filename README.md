@@ -51,12 +51,15 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 #### Module 3
 
-| Reading                                 | Where to find                                                               | Read by | For |
-|-----------------------------------------|-----------------------------------------------------------------------------|--------:|----:|
-| EITHER Microbial Metabolism             | Chapter 2 in [Introduction to Geomicrobiology](https://goo.gl/NGy9Ew)       |  20 Sep | RAT |
-| OR (recommended) Geomicrobial Processes | [Google Drive](https://goo.gl/QePQxE) / module 3                            |  20 Sep | RAT |
-| Redox refresher                         | [Online Materials](https://2017-geomicrobiology.github.io/materials/redox/) |  20 Sep | RAT |
-| OPT oxidation reduction reactions.pdf   | [Google Drive](https://goo.gl/QePQxE) / module 3                            |  20 Sep | RAT |
+| Reading                                 | Where to find                                                               | Read by |      For |
+|-----------------------------------------|-----------------------------------------------------------------------------|--------:|---------:|
+| EITHER Microbial Metabolism             | Chapter 2 in [Introduction to Geomicrobiology](https://goo.gl/NGy9Ew)       |  20 Sep |      RAT |
+| OR (recommended) Geomicrobial Processes | [Google Drive](https://goo.gl/QePQxE) / module 3                            |  20 Sep |      RAT |
+| Redox refresher                         | [Online Materials](https://2017-geomicrobiology.github.io/materials/redox/) |  20 Sep |      RAT |
+| OPT oxidation reduction reactions.pdf   | [Google Drive](https://goo.gl/QePQxE) / module 3                            |  20 Sep |      RAT |
+| Video on Chemiosmosis                   | [Youtube video](https://www.youtube.com/watch?v=3y1dO4nNaKY)                |  27 Sep | Activity |
+| Video on Electron Transport Chain       | [Youtube video](https://www.youtube.com/watch?v=xbJ0nbzt5Kw)                |  27 Sep | Activity |
+
 
 #### Module 4
 
