@@ -28,7 +28,7 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 ## Readings
 
-`Read by` dates for readings are the dates on which related assignments are due (`Assignment`), content will be part of a team exercise or discussion in class (`Exercise`), or is part of individual and team readiness assessment tests (`RAT`). Required readings are prefixed with a number to indicate the suggested order of reading (for logical flow, not as an indication of importance). Optional readings are prefixed with `OPT`. They are not required reading and are **not** part of any tests or exercises but provide additional information that you may find helpful or interesting.
+`Read by` dates for readings are the dates on which related assignments are due (`Assignment`), content will be part of a team exercise or discussion in class (`Activity`), or is part of individual and team readiness assessment tests (`RAT`). Required readings are prefixed with a number to indicate the suggested order of reading (for logical flow, not as an indication of importance). Optional readings are prefixed with `OPT`. They are not required reading and are **not** part of any tests or exercises but provide additional information that you may find helpful or interesting.
 
 #### Module 1
 
@@ -38,7 +38,7 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 | 02 introduction to TBL.pdf            | [Google Drive](https://goo.gl/QePQxE) / module 1            |  30 Aug |        RAT |
 | 03 essential TBL.pdf                  | [Google Drive](https://goo.gl/QePQxE) / module 1            |  30 Aug |        RAT |
 | 04 helpful feedback.pdf               | [Google Drive](https://goo.gl/QePQxE) / module 1            |  30 Aug |        RAT |
-| 05 learning styles and strategies.pdf | [Google Drive](https://goo.gl/QePQxE) / module 1            |   1 Sep |   Exercise |
+| 05 learning styles and strategies.pdf | [Google Drive](https://goo.gl/QePQxE) / module 1            |   1 Sep |   Activity |
 | OPT markdown cheatsheet.pdf           | [Google Drive](https://goo.gl/QePQxE) / module 1            |   1 Sep | Assignment |
 
 #### Module 2
@@ -68,6 +68,17 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 #### Module 6
 
 #### Module 7
+
+## Materials
+
+The following table is a summary of the online materials that are part of the exercises or activity assignments (the ones that are required class preparation are also listed in the [Readings](#readings) section). PDFs and other non-online materials are located in the [Google Drive](https://goo.gl/QePQxE) / activities folder (for activities) and the [Google Drive](https://goo.gl/QePQxE) / presentations folder (for presentations).
+
+| Module | Material                                                                                                  |
+|--------|-----------------------------------------------------------------------------------------------------------|
+| 2      | [Working with the 2016 Tree of Life](https://2017-geomicrobiology.github.io/materials/trees/)             |
+| 3      | [Redox refresher](https://2017-geomicrobiology.github.io/materials/redox/)                                |
+| 3      | [Metabolic Nomenclature Exercises](https://2017-geomicrobiology.github.io/materials/trophy/)              |
+| 3      | [Electron Transport / Chemiosmosis Primer](https://2017-geomicrobiology.github.io/materials/respiration/) |
 
 ## Assignments
 
