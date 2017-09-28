@@ -93,7 +93,7 @@ What is your team name?               | Team       | 30 Aug (before class)      
 Intro GitHub                          | Individual | 1 Sep (before class)                      | [Video Tutorial](https://youtu.be/bRkpm1LTpkY) / [Start Assignment](https://classroom.github.com/a/kpaay7tA) |
 Intro Team                            | Team       | 15 Sep (before class)                     | [Video Tutorial](https://youtu.be/k2NjjQxFEuA) / [Start Assignment](https://classroom.github.com/g/HU7hhIog) |
 Term Project Topic                    | Individual | 22 Sep (before class)                     | [Start Assignment](https://classroom.github.com/a/HYZzXbdc)                                                  |
-Peer Evaluation #1                    | Individual | 29 Sep (midnight)                         |                                                                                                              |
+Peer Evaluation #1                    | Individual | 6 Oct (midnight)                         |                                                                                                              |
 Team Blog (1st entry)                 | Team       | 29 Sep (before class)                     | [Start Team Blog](https://classroom.github.com/g/netcQXMi)                                                   |
 Term L&G Draft                        | Individual | 2 Oct (midnight)                          | [Start Assignment](https://classroom.github.com/a/4m4Ju-fL)                                                  |
 Peer Review of L&G                    | Individual | 4 Oct (midnight)                          | Video coming soon                                                                                            |
@@ -101,7 +101,7 @@ Term L&G Revised Final                | Individual | 6 Oct (midnight), verbal su
 Team Blog (2nd entry)                 | Team       | 20 Oct (before class)                     | [Continue Team Blog](https://classroom.github.com/g/netcQXMi)                                                |
 Term Paper/Proposal Outline           | Team       | 20 Oct (midnight)                         |                                                                                                              |
 Peer Review of Paper/Proposal Outline | Individual | 25 Oct (midnight)                         |                                                                                                              |
-Peer Evaluation #2                    | Individual | 1 Nov (midnight)                          |                                                                                                              |
+Peer Evaluation #2                    | Individual | 6 Nov (midnight)                          |                                                                                                              |
 Team Blog (3rd entry)                 | Team       | 10 Nov (before class)                     | [Continue Team Blog](https://classroom.github.com/g/netcQXMi)                                                |
 Term Paper/Proposal Draft             | Individual | 10 Nov (midnight)                         |                                                                                                              |
 Peer Review of Term Paper/Proposal    | Individual | 15 Nov (midnight)                         |                                                                                                              |
