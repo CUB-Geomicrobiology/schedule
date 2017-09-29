@@ -18,7 +18,7 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 |        | *Labor day - no class*                      |           4 Sep |
 |   2    | Microbial properties & diversity            |  6 Sep - 15 Sep |
 |   3    | Microbial metabolism & energetics           |  20 Sep - 6 Oct |
-|   4    | Microbial roles in biogeochemical cycles    |  9 Oct - 20 Oct |
+|   4    | Microbial roles in biogeochemical cycles    | 11 Oct - 20 Oct |
 |   5    | Microbe-mineral interactions                |  23 Oct - 3 Nov |
 |   6    | The microbial geologic record               |  Nov 6 - Nov 17 |
 |        | *Fall break - no classes*                   |     20 - 24 Nov |
@@ -97,7 +97,7 @@ Team Blog (1st entry)                 | Team       | 29 Sep (before class)      
 Term L&G Draft                        | Individual | 2 Oct (midnight)                          | [Reviews Video Tutorial](https://youtu.be/ZWMN5FxgdWI) / [Start Assignment](https://classroom.github.com/a/4m4Ju-fL) |
 Peer Review of L&G                    | Individual | 4 Oct (midnight)                          | [Reviews Video Tutorial](https://youtu.be/ZWMN5FxgdWI)                                                               |
 Term L&G Revised Final                | Individual | 6 Oct (midnight), verbal summary in class | [Same Assignment as L&G Draft](https://classroom.github.com/a/4m4Ju-fL)                                              |
-Peer Evaluation #1                    | Individual | 29 Sep (midnight)                         |                                                                                                                      |
+Peer Evaluation #1                    | Individual | 9 Oct (midnight)                         |                                                                                                                      |
 Team Blog (2nd entry)                 | Team       | 20 Oct (before class)                     | [Continue Team Blog](https://classroom.github.com/g/netcQXMi)                                                        |
 Term Paper/Proposal Outline           | Team       | 20 Oct (midnight)                         |                                                                                                                      |
 Peer Review of Paper/Proposal Outline | Individual | 25 Oct (midnight)                         |                                                                                                                      |
