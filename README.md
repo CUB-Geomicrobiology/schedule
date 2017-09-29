@@ -57,7 +57,7 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 | OR (recommended) Geomicrobial Processes  | [Google Drive](https://goo.gl/QePQxE) / module 3                                                 |  20 Sep |      RAT |
 | Redox refresher                          | [Online Materials](https://2017-geomicrobiology.github.io/materials/redox/)                      |  20 Sep |      RAT |
 | OPT oxidation reduction reactions.pdf    | [Google Drive](https://goo.gl/QePQxE) / module 3                                                 |  20 Sep |      RAT |
-| Electron Transport / Chemiosmosis Primer | [Study Questions and Video Links](https://2017-geomicrobiology.github.io/materials/respiration/) |  27 Sep | Activity |
+| Electron Transport / Chemiosmosis Primer | [Study Questions and Video Links](https://2017-geomicrobiology.github.io/materials/respiration/) |   2 Oct | Activity |
 
 
 
