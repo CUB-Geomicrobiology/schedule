@@ -64,10 +64,10 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 
 #### Module 4
 
-| Reading                             | Where to find                                                                | Read by | For |
-|-------------------------------------|------------------------------------------------------------------------------|--------:|----:|
-| 01 Overview Biogeohemical Cycles    | [Materials/Cycles](https://2017-geomicrobiology.github.io/materials/cycles/) |  20 Oct | RAT |
-| 02 Coevoluation Biosphere Geosphere | [Google Drive](https://goo.gl/QePQxE) / module 4                             |  20 Oct | RAT |
+| Reading                                 | Where to find                                                                | Read by | For |
+|-----------------------------------------|------------------------------------------------------------------------------|--------:|----:|
+| 01 Overview Biogeohemical Cycles        | [Materials/Cycles](https://2017-geomicrobiology.github.io/materials/cycles/) |  20 Oct | RAT |
+| 02 Coevoluation Biosphere Geosphere.pdf | [Google Drive](https://goo.gl/QePQxE) / module 4                             |  20 Oct | RAT |
 
 
 #### Module 5
