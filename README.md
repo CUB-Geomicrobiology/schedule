@@ -18,11 +18,11 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 |        | *Labor day - no class*                      |           4 Sep |
 |   2    | Microbial properties & diversity            |  6 Sep - 15 Sep |
 |   3    | Microbial metabolism & energetics           |  20 Sep - 6 Oct |
-|   4    | Microbial roles in biogeochemical cycles    |  18 Oct - 1 Nov |
+|   4    | Microbial roles in biogeochemical cycles    |  20 Oct - 1 Nov |
 |   5    | Microbe-mineral interactions                |  3 Nov - 10 Nov |
-|   6    | The microbial geologic record               | 13 Nov - 27 Nov |
-|        | *Fall break - no classes*                   | 20 Nov - 24 Nov |
-|   7    | Final topic (selected by the class)         | 29 Nov - 13 Dec |
+|   6    | The microbial geologic record               |  13 Nov - 1 Dec |
+|        | *Fall break - no classes*                   | 20 Nov - 26 Nov |
+|   7    | Final topic (selected by the class)         |  4 Dec - 14 Dec |
 |        | *Finals week - no final for this class*     | 18 Dec - 22 Dec |
 
 
