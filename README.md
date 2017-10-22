@@ -11,19 +11,19 @@ This is the schedule for the Fall 2017 **Introduction to Geomicrobiology** class
 
 Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the first day of a new module (e.g. on August 28 for Module 1 and on September 4 for Module 2).
 
-| Module | Topic                                       |           Dates |
-|:------:|---------------------------------------------|----------------:|
-|        | First class. Introductions, teams, syllabus |          28 Aug |
-|   1    | Communication and Collaboration             |  30 Aug - 1 Sep |
-|        | *Labor day - no class*                      |           4 Sep |
-|   2    | Microbial properties & diversity            |  6 Sep - 15 Sep |
-|   3    | Microbial metabolism & energetics           |  20 Sep - 6 Oct |
-|   4    | Microbial roles in biogeochemical cycles    |  20 Oct - 1 Nov |
-|   5    | Microbe-mineral interactions                |  3 Nov - 10 Nov |
-|   6    | The microbial geologic record               |  13 Nov - 1 Dec |
-|        | *Fall break - no classes*                   | 20 Nov - 26 Nov |
-|   7    | Final topic (selected by the class)         |  4 Dec - 14 Dec |
-|        | *Finals week - no final for this class*     | 18 Dec - 22 Dec |
+| Module | Topic                                                 |           Dates |
+|:------:|-------------------------------------------------------|----------------:|
+|        | First class. Introductions, teams, syllabus           |          28 Aug |
+|   1    | Communication and Collaboration                       |  30 Aug - 1 Sep |
+|        | *Labor day - no class*                                |           4 Sep |
+|   2    | Microbial properties & diversity                      |  6 Sep - 15 Sep |
+|   3    | Microbial metabolism & energetics                     |  20 Sep - 6 Oct |
+|   4    | Microbial roles in biogeochemical cycles              |  20 Oct - 1 Nov |
+|   5    | Microbe-mineral interactions                          |  3 Nov - 10 Nov |
+|   6    | The microbial geologic record                         |  13 Nov - 1 Dec |
+|        | *Fall break - no classes*                             | 20 Nov - 26 Nov |
+|   7    | Techniques in Geomicrobiology (selected by the class) |  4 Dec - 14 Dec |
+|        | *Finals week - no final for this class*               | 18 Dec - 22 Dec |
 
 
 ## Readings
