@@ -79,21 +79,22 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 | 02 OPT Minerals as Substrates for Life.pdf (p. 1-4)              | [Google Drive](https://goo.gl/QePQxE) / module 5 |   3 Nov | RAT |
 | 03 Mineral Microbe Interations Review.pdf (p. 2-8)               | [Google Drive](https://goo.gl/QePQxE) / module 5 |   3 Nov | RAT |
 
+
 Note that reading 01 OPT and 02 OPT are optional but recommended introductory texts for reading 03. All readings are posted as the original PDF and a copy that has highlighted text for the sections to focus on. Details on what to focus on in 03 Mineral Microbe Interations Review.pdf are also listed below:
 
 - Section 2. Overview of mineral-microbe interactions (pages 2+3)
 - Section 3. Microbial dissolution of minerals (pages 3-6)
- - Section 3.1 Role of siderophores and other organic compounds in mineral dissolution
- - Section 3.2 Microbial oxidation of reduced minerals
- - Section 3.2.1 Microbial oxidation of sulfides
- - Section 3.2.2 Biological recovery of precious metals from sulfides
- - Section 3.2.3 Microbial oxidation of oceanic basalt and glass
- - Section 3.2.4 Microbial reduction of oxidized minerals (first paragraph)
+  - Section 3.1 Role of siderophores and other organic compounds in mineral dissolution
+  - Section 3.2 Microbial oxidation of reduced minerals
+  - Section 3.2.1 Microbial oxidation of sulfides
+  - Section 3.2.2 Biological recovery of precious metals from sulfides
+  - Section 3.2.3 Microbial oxidation of oceanic basalt and glass
+  - Section 3.2.4 Microbial reduction of oxidized minerals (first paragraph)
 - Section 4. Microbial formation of minerals (pages 7+8)
- - Section 4.1 Biologically controlled mineralization (BCM)
- - Section 4.2 Biologically induced mineralization (BIM)
- - Section 4.2.1 Microbial surfaces as nucleation sites for mineral precipitation
- - Section 4.2.2 Microbial formation of carbonates (except the last part on dolomites)
+  - Section 4.1 Biologically controlled mineralization (BCM)
+  - Section 4.2 Biologically induced mineralization (BIM)
+  - Section 4.2.1 Microbial surfaces as nucleation sites for mineral precipitation
+  - Section 4.2.2 Microbial formation of carbonates (except the last part on dolomites)
 
 
 #### Module 6
