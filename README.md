@@ -137,4 +137,4 @@ Peer Review of Paper/Proposal Outline | Individual | 27 Nov (midnight)          
 Team Blog (3rd entry)                 | Team       | 10 Nov (before class)                     | [Continue Team Blog](https://classroom.github.com/g/netcQXMi)                                                        |
 Team Blog (4th entry)                 | Team       | 1 Dec (before class)                      | [Continue Team Blog](https://classroom.github.com/g/netcQXMi)                                                        |
 Peer Evaluation #3                    | Individual | 11 Dec (midnight)                         |                                                                                                                      |
-Term Paper/Proposal Revised Final     | Individual | 13 Dec (midnight)                         |                                                                                                                      |
+Term Paper/Proposal Revised Final     | Individual | 13 Dec (before class)                     |                                                                                                                      |
