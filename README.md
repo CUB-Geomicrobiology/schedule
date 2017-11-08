@@ -20,7 +20,7 @@ Individual and team readiness tests (iRAT/tRAT) ***always*** take place on the f
 |   3    | Microbial metabolism & energetics                     |  20 Sep - 6 Oct |
 |   4    | Microbial roles in biogeochemical cycles              |  20 Oct - 1 Nov |
 |   5    | Microbe-mineral interactions                          |  3 Nov - 10 Nov |
-|   6    | The microbial geologic record                         |  13 Nov - 1 Dec |
+|   6    | The microbial geologic record                         |  15 Nov - 1 Dec |
 |        | *Fall break - no classes*                             | 20 Nov - 26 Nov |
 |   7    | Techniques in Geomicrobiology (selected by the class) |  4 Dec - 14 Dec |
 |        | *Finals week - no final for this class*               | 18 Dec - 22 Dec |
@@ -98,6 +98,17 @@ Note that reading 01 OPT and 02 OPT are optional but recommended introductory te
 
 
 #### Module 6
+
+| Reading                                       | Where to find                                    | Read by | For |
+|-----------------------------------------------|--------------------------------------------------|--------:|----:|
+| 01 OPT The Universe - Stromatolites.mp4       | [Google Drive](https://goo.gl/QePQxE) / module 6 |  15 Nov | RAT |
+| 02 The Nature of Stromatolites.pdf (excerpts) | [Google Drive](https://goo.gl/QePQxE) / module 6 |  15 Nov | RAT |
+| 03 Introduction to Isotopes.pdf (excerpts)    | [Google Drive](https://goo.gl/QePQxE) / module 6 |  15 Nov | RAT |
+| 04 The Puzzle of the GOE.pdf                  | [Google Drive](https://goo.gl/QePQxE) / module 6 |  15 Nov | RAT |
+
+Note that 01 OPT is a video excerpt from the History channel's Universe series, season 2 episode 7 on Astrobiology. If you are curious, the entire episode is available at http://www.history.com/shows/the-universe/season-2/episode-7 and https://www.youtube.com/watch?v=Um586NuZYtQ. The relevant excerpt for this module (the one posted in the google drive) is from 4:48 - 10:14.
+
+Also not that both reading 02 and 03 are long texts **but only a few excerpts** are required reading for this module. All readings are posted as the original PDF and a copy that has highlighted text for the sections to focus on.
 
 #### Module 7
 
