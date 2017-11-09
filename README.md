@@ -129,7 +129,7 @@ Also note that especially for reading 02, **only a few excerpts** are required r
      - Section 1.7.1: Kinetic isotope effects (1st paragraph, 1-13)
      - Section 1.7.2: Equilibrium isotope effects (1st paragraph, 1-14)
 
-**The puzzle of the Great Oxidation Event:**
+**The Puzzle of the Great Oxidation Event:**
 Pages 1-4.
 
 
