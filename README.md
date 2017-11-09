@@ -108,7 +108,30 @@ Note that reading 01 OPT and 02 OPT are optional but recommended introductory te
 
 Note that 01 OPT is a video excerpt from the History channel's Universe series, season 2 episode 7 on Astrobiology. If you are curious, the entire episode is available at http://www.history.com/shows/the-universe/season-2/episode-7 and https://www.youtube.com/watch?v=Um586NuZYtQ. The relevant excerpt for this module (the one posted in the google drive) is from 4:48 - 10:14.
 
-Also not that both reading 02 and 03 are long texts **but only a few excerpts** are required reading for this module. All readings are posted as the original PDF and a copy that has highlighted text for the sections to focus on.
+Also note that especially for reading 02, **only a few excerpts** are required reading for this module. All readings are posted as the original PDF and a copy that has highlighted text for the sections to focus on. Details on what to focus on are also listed below:
+
+**The Nature of Stromatolites:**
+ - Section 1: Introduction (p. 29+30)
+ - Section 5: Stromatolite Fabrics (Fig. 17)
+ - Section 7: Discussion (p. 51/53, 1st paragraph)
+   - Section 7.1: Abiogenic and/or Biogenic Stromatolites? (p. 54, 1st paragraph)
+   - Section 7.2: Microbialite (p. 56, 1st paragraph + Fig. 23)
+ - Section 8: Conclusions (p. 62/63, points 1, 2, 3)
+
+**Introduction to Isotopes:**
+ - Section 1.2: Historical Background (p. 1-1 to 1-4)
+ - Section 1.3: Fig. 1.2 (p. 1-6)
+   - Section 1.3.1: What are stable isotopes? (p. 1-6/1-7)
+   - Section 1.3.2: Which elements and why? (p. 1-8/1-9)
+ - Section 1.5: Characteristics of Isotopic Fractionation 1-4 (p. 1-10/1-11)
+ - Section 1.6: Application in the Earth Sciences 1-4 (1-12)
+ - Section 1.7:
+     - Section 1.7.1: Kinetic isotope effects (1st paragraph, 1-13)
+     - Section 1.7.2: Equilibrium isotope effects (1st paragraph, 1-14)
+
+**The puzzle of the Great Oxidation Event:**
+Pages 1-4.
+
 
 #### Module 7
 
