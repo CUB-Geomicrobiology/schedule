@@ -141,7 +141,9 @@ Pages 1-4.
 | OPT Omic Approaches to Microbial Geochemistry.pdf | [Google Drive](https://goo.gl/QePQxE) / module 7 |   4 Dec | RAT |
 
 **From Geocycles to Genomes and Back**
-Highlighted parts of the following sections (p. 11-21)
+
+Highlighted parts of the following sections (p. 11-21):
+
 - Introduction
 - Methods available to study microbial communities
   - Nonmolecular Approaches
