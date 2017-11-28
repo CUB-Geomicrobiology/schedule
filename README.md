@@ -135,6 +135,60 @@ Pages 1-4.
 
 #### Module 7
 
+| Reading                                           | Where to find                                    | Read by | For |
+|---------------------------------------------------|--------------------------------------------------|--------:|----:|
+| 01 Geocycles to Genomes.pdf (excerpts)            | [Google Drive](https://goo.gl/QePQxE) / module 7 |   4 Dec | RAT |
+| OPT Omic Approaches to Microbial Geochemistry.pdf | [Google Drive](https://goo.gl/QePQxE) / module 7 |   4 Dec | RAT |
+
+**From Geocycles to Genomes and Back**
+Highlighted parts of the following sections (p. 11-21)
+- Introduction
+- Methods available to study microbial communities
+  - Nonmolecular Approaches
+    - In Situ methods
+      - In Situ microscopy
+      - In Situ study of geomicrobial Activity
+    - In vitro Methods
+      - Batch cultures and chemostats
+      - Culturing techniques and the enrichment method
+  - Molecular Approaches
+    - Who is there?
+      - PCR-based-methods
+      - Whole Genome Sequence Approaches
+      - Caveats of using DNA-based Methods
+    - What are they doing?
+      - Single cell Approaches
+        - FISH-SIMS
+        - Single-cell PCR
+      - Community approaches
+        - SIP
+        - Meta -omics
+    - How are they doing it?
+      - Genetics
+      - Bioinformatics and Subsequent Studies
+
+**Study Questions**
+
+A list of study questions to prepare for the iRAT/tRAT and check what you took away from the reading on several key techniques concepts:
+
+- What are "traditional" techniques?
+- What are "in situ" and "in vitro" methods?
+- How can radioactive isotopes be used to study geomicrobial processes?
+- What types of microscopy are used in geomicrobiology?
+- What are some of the caveats of in situ approaches? What are the caveats of in vitro approaches?
+- What is the difference between batch culture and chemostats?
+- What is the "great plate anomaly"?
+- What are "molecular" approaches and why are they useful?
+- What is the significance of 16S r(ibosomal)RNA and how is used?
+- What is PCR and why is it so useful? (hint: wikipedia might help)
+- What does FISH stand for?
+- What are some of the caveats of DNA-based methods?
+- What is FISH-SIMS and why might it be useful?
+- What is SIP and what is often used for?
+- What is an advantage of metaproteomics over metagenomics and metatranscriptomics?
+- What are some example of tools geomicrobiologists use to answer the question "How" microbes do what they do?
+
+
 ## Materials
 
 The following table is a summary of the online materials that are part of the exercises or activity assignments (the ones that are required class preparation are also listed in the [Readings](#readings) section). PDFs and other non-online materials are located in the [Google Drive](https://goo.gl/QePQxE) / activities folder (for activities) and the [Google Drive](https://goo.gl/QePQxE) / presentations folder (for presentations).
